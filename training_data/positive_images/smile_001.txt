@@ -1,0 +1,26 @@
+<annotation>
+	<folder>positive_images</folder>
+	<filename>smile_001.jpg</filename>
+	<path>/Users/mohamadfarismohdjaafar/Desktop/Work/Web Scrapper/training_data/positive_images/smile_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smile3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>366</ymin>
+			<xmax>589</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>
